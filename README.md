@@ -13,6 +13,8 @@
 - Slack Webhook
 - Allure Framework
 
+<br>
+
 ## Development
 
 ![Slide 16_9 - 32.pdf](https://github.com/user-attachments/files/17525608/Slide.16_9.-.32.pdf)
